@@ -28,6 +28,18 @@ An Interactive Online Quiz Platform
   </tr>
   </tr>
 </table>
+          
+## 📑 Table of Contents
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Technologies Used](#technologies-used)
+- [System Architecture](#system-architecture)
+- [Implementation Details](#implementation-details)
+- [How to Run the Project](#how-to-run-the-project)
+- [Results & Output](#results--output)
+- [Future Enhancements](#future-enhancements)
+- [Group Members](#group-members)
 
 ### Table Of Content
 1. ABSTRACT 

@@ -209,13 +209,6 @@ practical application of Spring Boot, REST APIs, and responsive web design.
 .Run the quizApplication.
 .Open any browser and search the host link -> http://localhost 8080
 .Then you are good to go to see Quiz application 
-## Screenshot
-<img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/5a07df1a-a17e-4d9e-a0d5-969b6220039f" />
-<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/d5c2d70c-1378-44ad-870f-aae6a0e5f12c" />
-<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/d1f18955-d1fb-4779-9c2f-f126b67ed1d3" />
-<img width="1366" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/5369aefc-1d4a-404f-83d4-51c201a9c2c4" />
-<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/41e4f753-11b4-4b55-89b8-00e37dda7fe6" />
-
 
 
 

@@ -31,20 +31,22 @@ An Interactive Online Quiz Platform
           
 ## 📑 Table of Contents
 
+## 📑 Table of Contents
+
 1. Introduction
-   1.1 Project Background
-   1.2 Problem Statement
+   - 1.1 Project Background
+   - 1.2 Problem Statement
 2. Project Overview
-   2.1 Features
-   2.2 Modules
+   - 2.1 Features
+   - 2.2 Modules
 3. Objectives
-   3.1 Primary Goals
-   3.2 Secondary Goals
+   - 3.1 Primary Goals
+   - 3.2 Secondary Goals
 4. Technologies Used
 5. System Architecture
 6. Implementation Details
-   6.1 Module 1
-   6.2 Module 2
+   - 6.1 Module 1
+   - 6.2 Module 2
 7. How to Run the Project
 8. Results & Output
 9. Future Enhancements

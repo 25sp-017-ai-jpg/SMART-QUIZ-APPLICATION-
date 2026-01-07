@@ -82,15 +82,13 @@ technologies in creating an educational tool that enhances learning through
 interactive assessment. 
 
 ## Introduction: 
-
-2.1 Project Overview 
+### Project Overview 
 In the digital era of education, online assessment systems have become 
 essential tools for evaluating knowledge and skills. The Smart Quiz Application 
 is designed to address the growing need for interactive, reliable, and user
 friendly online testing platforms. This system allows administrators to create 
 and manage quizzes while providing users with an engaging testing experience. 
-
-2.2 Need for the System: 
+### Need for the System: 
 Traditional paper-based quizzes suffer from limitations such as manual grading, 
 delayed results, and lack of interactive feedback. Educational institutions and 
 corporate training programs require automated systems that can: 
@@ -99,8 +97,7 @@ corporate training programs require automated systems that can:
 • Track user progress over time 
 • Support various question types 
 • Ensure fair timing and monitoring 
-
-2.3 Scope of the Project 
+### Scope of the Project 
 The Smart Quiz Application covers the following scope: 
 • User registration and authentication (basic implementation) 
 • Quiz creation and management 
@@ -109,3 +106,13 @@ The Smart Quiz Application covers the following scope:
 • Automatic scoring and result generation 
 • Detailed performance analysis 
 • Responsive web interface 
+## Objectives: 
+The primary objectives of this project are: 
+1. To develop a user-friendly online quiz platform using Spring Boot 
+2. To implement RESTful APIs for seamless frontend-backend communication 
+3. To create a responsive and intuitive user interface 
+4. To ensure accurate and automatic scoring system 
+5. To provide detailed feedback with explanations 
+6. To implement time management features for quizzes 
+7. To develop a scalable and maintainable codebase 
+8. To integrate an in-memory database for rapid development.

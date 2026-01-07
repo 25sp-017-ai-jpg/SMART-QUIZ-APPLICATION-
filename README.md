@@ -30,7 +30,10 @@ An Interactive Online Quiz Platform
 </table>
           
 ## 📑 Table of Contents
-1. ABSTRACT 
+1. Introduction
+2. Project Overview
+3. Objectives
+ 
                    2. INTRODUCTION 
                    2.1 Project Overview 
                    2.2 Need for the System 

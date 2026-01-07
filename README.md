@@ -13,8 +13,8 @@ An Interactive Online Quiz Platform
     <th>Student Name</th> 
   </tr>
   <tr>
-       <td><b>25SP-017-AI</b></td>
-       <td><b>Abdullah Usman</b></td>
+       <td>25SP-017-AI</td>
+       <td>Abdullah Usman</td>
   </tr>
   <tr>
     <td>25SP-020-AI</td>

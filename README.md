@@ -1,5 +1,7 @@
 # SMART-QUIZ-APPLICATION-
 An Interactive Online Quiz Platform 
+## UIT University  
+### Department of Computer Science / Artificial Intelligence Fall 2025, Semester II 
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,5 +29,3 @@ An Interactive Online Quiz Platform
   </tr>
 </table>
           
-# UIT University  
-## Department of Computer Science / Artificial Intelligence Fall 2025, Semester II 

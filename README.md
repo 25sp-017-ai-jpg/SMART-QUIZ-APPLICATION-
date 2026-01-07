@@ -29,7 +29,6 @@ An Interactive Online Quiz Platform
   </tr>
 </table>
           
-## 📑 Table of Contents
 
 ## 📑 Table of Contents
 

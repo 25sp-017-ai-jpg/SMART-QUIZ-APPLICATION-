@@ -26,5 +26,6 @@ An Interactive Online Quiz Platform
   </tr>
   </tr>
 </table>
+          
 # UIT University  
 ## Department of Computer Science / Artificial Intelligence Fall 2025, Semester II 

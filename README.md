@@ -116,3 +116,35 @@ The primary objectives of this project are:
 6. To implement time management features for quizzes 
 7. To develop a scalable and maintainable codebase 
 8. To integrate an in-memory database for rapid development.
+## Problem Statement: 
+The traditional methods of conducting quizzes and assessments face several challenges: 
+1. Manual Evaluation: Paper-based quizzes require extensive time for grading and result calculation 
+2. Delayed Feedback: Students receive results days or weeks after taking tests 
+3. Limited Analytics: Lack of detailed performance analysis and progress tracking 
+4. Time Management: Difficulty in enforcing strict time limits manually 
+5. Accessibility Issues: Physical presence required for traditional tests 
+6. Resource Intensive: High costs for printing, distribution, and manual evaluation 
+7. No Immediate Feedback: Students cannot learn from mistakes immediately
+8. The Smart Quiz Application addresses these issues by providing an automated, interactive, and efficient online assessment platform.
+## Methodology: 
+### System Architecture 
+The application follows a three-tier architecture: 
+1. Presentation Layer: HTML, CSS, JavaScript frontend 
+2. Application Layer: Spring Boot REST API 
+3. Data Layer: H2 Database with JPA 
+### Technology Stack 
+1.  Backend: Spring Boot 3.5.9, Java 17
+2.  Frontend: HTML5, CSS3, JavaScript (ES6)
+3.  Database: H2 In-memory Database
+4.  ORM: Spring Data JPA
+5.  Build Tool: Maven
+6.  IDE: IntelliJ IDEA / VS Code 
+### Development Methodology 
+The project follows an Agile development approach with iterative sprints: 
+1. Requirement Analysis 
+2. System Design 
+3. Backend Development 
+4. Frontend Development 
+5. Integration Testing 
+6. Deployment 
+6.4 Implementation Details 
